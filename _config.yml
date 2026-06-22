@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Aoxiang Qin"
-description              : "Aoxiang Qin's personal homepage. MSc student in AI and Robotics at CUHK(SZ)."
+description              : "Aoxiang Qin's personal homepage. MSc student in AI and Robotics at CUHK-Shenzhen."
 url                      : "https://qinaoxiang9527.github.io"
 repository               : "QinAoxiang9527/QinAoxiang9527.github.io"
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Aoxiang Qin"
   avatar           : "images/personal.jpg"
-  bio              : "MSc in AI and Robotics @ CUHK(SZ)"
+  bio              : "MSc Student, AI & Robotics"
   location         : "Shenzhen, China"
-  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  employer         : "CUHK-Shenzhen"
   pubmed           :
   googlescholar    :
   email            : "qinaoxiang9527@gmail.com"
