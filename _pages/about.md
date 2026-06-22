@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! I'm **Aoxiang Qin (秦傲翔)**, currently pursuing an MSc in **Artificial Intelligence and Robotics** at **CUHK-Shenzhen**.
+Hi! I'm **Aoxiang Qin (秦奥翔)**, currently pursuing an MSc in **Artificial Intelligence and Robotics** at **CUHK-Shenzhen**.
 
 My research interests include foundation models, value alignment, mechanistic interpretability, efficient long-sequence modeling, and embodied intelligence. I am particularly interested in building interpretable, efficient, and trustworthy AI systems.
 
