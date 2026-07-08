@@ -24,13 +24,13 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 # 🔬 Research Experience
 
 **Research Student**, Freedom AI, CUHK-Shenzhen, Shenzhen, China<br>
-*Apr. 2025 - Present* · Supervised by Prof. Benyou Wang
+*Apr. 2025 - Present* · Supervised by [Prof. Benyou Wang](https://wabyking.github.io/) and [Dr. Li Zhou](https://lizhou21.github.io/)
 - Conduct research on value alignment, mechanistic interpretability, and controllable behavior steering for language models and multimodal agents.
 - Build contrastive value-related datasets and trace cross-layer information flow with Contextual Decomposition for Transformers.
 - Localize and causally validate sparse circuits associated with value-related model behavior using activation and attention-head ablations.
 
 **Research Assistant**, Department of Computer Science, City University of Hong Kong, Hong Kong, China<br>
-*Jul. 2025 - Apr. 2026* · Supervised by Prof. Zhichao Lu
+*Jul. 2025 - Apr. 2026* · Supervised by [Prof. Zhichao Lu](https://www.cs.cityu.edu.hk/~zhichalu/)
 - Investigated robust spiking neural networks and neuromorphic computing in a joint research setting with Huawei 2012LAB.
 - Explored efficient, noise-robust training methods for low-latency SNNs and their connection to long-sequence modeling.
 
@@ -52,4 +52,18 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 - **MSc in Artificial Intelligence and Robotics**, CUHK-Shenzhen, Shenzhen, China<br>
   *Sep. 2024 - Present*
 - **BSc in Computer Science**, Ocean University of China, Qingdao, China<br>
-  *Sep. 2020 - Jun. 2024* · Undergraduate thesis: *Research on Underwater Laser Line Enhancement Algorithms*
+  *Sep. 2020 - Jun. 2024* · Undergraduate thesis: *Research on Underwater Laser Line Enhancement Algorithms* · Advisor: [Prof. Junyu Dong](https://www.ai-ouc.cn/faculty/dongjy.html)
+
+# 🏆 Awards
+- **Second Prize for Postgraduate Entrance Scholarship**, The Chinese University of Hong Kong, Shenzhen, Sep. 2024.
+- **Outstanding Undergraduate Thesis**, Ocean University of China, Jun. 2024.
+- **Outstanding Student**, Ocean University of China, Sep. 2023.
+- **First-Class Scholarship**, Ocean University of China, Sep. 2023.
+- **Lu Xin Social Scholarship**, Ocean University of China, Sep. 2023.
+- **Second Award (National Level)**, China Undergraduate Mathematics Competition (Math Major), Nov. 2023.
+- **Dean's Award**, Xingyuan College, Ocean University of China, Oct. 2022.
+- **Third-Class Scholarship**, Ocean University of China, May 2021.
+- **Boya Award**, Xingyuan College, Ocean University of China, Nov. 2021.
+
+# 🤝 Academic Service
+- **Student Co-organizer**, [PlurVA-LLM: Pluralistic Value Alignment of LLMs](https://plurvallm2026.github.io/organizers.html), AACL 2026.
