@@ -19,11 +19,16 @@ My research interests include foundation models, value alignment, mechanistic in
 Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aoxiang-qin-843282362) and [GitHub](https://github.com/QinAoxiang9527).
 
 # 🔥 News
+- *2026.08*: Our paper **Steer on Rubrics** has been accepted to EMNLP 2026.
 - *2026.08*: Our paper **Mamba with Hierarchical Memory** is available on arXiv.
 - *2026.08*: Serving as a student co-organizer for [PlurVA-LLM](https://plurvallm2026.github.io/organizers.html), an AACL 2026 workshop.
 - *2026.04*: 🎉 Launched my personal homepage.
 
 # 📝 Publications and Manuscripts
+
+- **Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**<br>
+  Zichen Xu, Geng Zhao, **Aoxiang Qin**, Li Zhou, and Benyou Wang.<br>
+  *Accepted to EMNLP 2026.*
 
 - **[Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling](https://arxiv.org/abs/2608.02347)**<br>
   Qinwen Wang, Jieping Luo, **Aoxiang Qin**, Ruoyu Zhao, Jianxiong Tang, Wei Zhang, Zhichao Lu, and Luziwei Leng.<br>
