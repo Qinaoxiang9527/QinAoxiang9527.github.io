@@ -36,7 +36,7 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 
 - **Is It a Ranking Failure? A Same-Budget Action-Ordering Audit for Verifier-Guided Logical Reasoning**<br>
   [Qingming Li](https://openreview.net/profile?id=~Qingming_Li2), **[Aoxiang Qin](https://openreview.net/profile?id=~Aoxiang_Qin1)**, and [Benyou Wang](https://openreview.net/profile?id=~Benyou_Wang2).<br>
-  *Submitted to AAAI.* Qingming Li and Aoxiang Qin contributed equally.
+  *Submitted to ICLR.* Qingming Li and Aoxiang Qin contributed equally.
 
 # 🔬 Research Experience
 
