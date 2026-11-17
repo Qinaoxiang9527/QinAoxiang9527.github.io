@@ -28,11 +28,13 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 
 - **[Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models](https://aclanthology.org/2026.emnlp-main.2147/)**<br>
   Zichen Xu, Geng Zhao, **Aoxiang Qin**, Li Zhou, and Benyou Wang.<br>
-  *Accepted to EMNLP 2026.*
+  *Accepted to EMNLP 2026.*<br>
+  <a class="btn btn--info btn--small" href="https://aclanthology.org/2026.emnlp-main.2147/">Paper (ACL Anthology)</a>
 
 - **[Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling](https://arxiv.org/abs/2608.02347)**<br>
   Qinwen Wang, Jieping Luo, **Aoxiang Qin**, Ruoyu Zhao, Jianxiong Tang, Wei Zhang, Zhichao Lu, and Luziwei Leng.<br>
-  *Under review at TMLR.* arXiv:2608.02347. Qinwen Wang, Jieping Luo, and Aoxiang Qin contributed equally.
+  *Under review at TMLR.* Qinwen Wang, Jieping Luo, and Aoxiang Qin contributed equally.<br>
+  <a class="btn btn--info btn--small" href="https://arxiv.org/abs/2608.02347">arXiv:2608.02347</a>
 
 - **Is It a Ranking Failure? A Same-Budget Action-Ordering Audit for Verifier-Guided Logical Reasoning**<br>
   [Qingming Li](https://openreview.net/profile?id=~Qingming_Li2), **[Aoxiang Qin](https://openreview.net/profile?id=~Aoxiang_Qin1)**, and [Benyou Wang](https://openreview.net/profile?id=~Benyou_Wang2).<br>
