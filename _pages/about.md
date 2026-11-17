@@ -14,7 +14,7 @@ redirect_from:
 
 Hi! I'm **Aoxiang Qin (秦奥翔)**, currently pursuing an MSc in **Artificial Intelligence and Robotics** at **CUHK-Shenzhen**.
 
-My research focuses on efficient and trustworthy foundation models, spanning mechanistic interpretability, long-context modeling, verifier-guided reasoning, and neuromorphic computing. I am particularly interested in extending these capabilities to embodied intelligence through world models, spatial perception, memory, and adaptive decision-making.
+My research interests include embodied AI, reasoning and planning, world models, and trustworthy AI. I am interested in combining learned representations with structured reasoning to develop trustworthy embodied agents that can plan and adapt in changing environments.
 
 Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aoxiang-qin-843282362) and [GitHub](https://github.com/QinAoxiang9527).
 
@@ -44,27 +44,23 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 
 **Research Student**, Freedom AI, CUHK-Shenzhen, Shenzhen, China<br>
 *Apr. 2025 - Present* · Supervised by [Prof. Benyou Wang](https://wabyking.github.io/) and [Dr. Li Zhou](https://lizhou21.github.io/)
-- Conduct research on value alignment, mechanistic interpretability, and controllable behavior steering for language models and multimodal agents.
-- Build contrastive value-related datasets and trace cross-layer information flow with Contextual Decomposition for Transformers.
-- Localize and causally validate sparse circuits associated with value-related model behavior using activation and attention-head ablations.
+- Conduct research on trustworthy AI, with a focus on value alignment and controllable behavior steering for language models and multimodal agents.
+- Develop contrastive value-related datasets and investigate cross-layer information flow using Contextual Decomposition for Transformers.
+- Localize and causally validate model circuits associated with value-related behavior through activation patching, attention-head ablation, and sparse representation analysis.
 
 **Research Assistant**, Department of Computer Science, City University of Hong Kong, Hong Kong, China<br>
-*Jul. 2025 - Apr. 2026* · Supervised by [Prof. Zhichao Lu](https://www.cs.cityu.edu.hk/~zhichalu/)
-- Investigated robust spiking neural networks and neuromorphic computing in a joint research setting with Huawei 2012LAB.
-- Explored efficient, noise-robust training methods for low-latency SNNs and their connection to long-sequence modeling.
+*Jul. 2025 - Apr. 2026* · Jointly supervised by [Prof. Zhichao Lu](https://www.cs.cityu.edu.hk/~zhichalu/) and Dr. Luziwei Leng
+- Developed a noise-aware ANN-to-SNN conversion and fine-tuning framework for robust, low-latency spiking neural networks.
+- Implemented Batch Normalization folding, post-conversion calibration, and LSQ-based quantization-aware fine-tuning to improve deployment efficiency and robustness.
+- Explored biologically inspired temporal representations and stable temporal optimization for efficient, noise-robust spiking neural networks.
+- Investigated connections between neuromorphic computation and temporal memory, and extended neuromorphic learning methods toward efficient long-sequence modeling.
 
 # 💼 Internships
-
-**Research Intern**, Huawei 2012LAB, Shenzhen, China<br>
-*Jul. 2025 - Apr. 2026* · Neuromorphic Computing and Spiking Neural Networks · Supervised by Dr. Luziwei Leng
-- Developed a noise-aware ANN-to-SNN conversion and fine-tuning framework for robust, low-latency image classification.
-- Implemented Batch Normalization folding, post-conversion calibration, and LSQ-based quantization-aware fine-tuning for SNN deployment.
-- Extended the framework to long-sequence benchmarks for efficient and robust spiking sequence modeling.
 
 **Algorithm Engineer Intern**, Baidu Era Technology Co., Ltd., Beijing, China<br>
 *Jun. 2024 - Sep. 2024* · Speech-Text Multimodal Dialogue Agent
 - Developed a speech-text multimodal dialogue agent based on Baidu's PANDA LLM, improving question-answering accuracy by 18%.
-- Integrated and optimized Whisper for automatic speech recognition, reducing word error rate to 5.2%.
+- Integrated and optimized Whisper-based automatic speech recognition, reducing word error rate to 5.2%.
 - Applied quantization-aware training to BERT models for efficient deployment, reducing model size to 30% of the baseline.
 
 # 📖 Education
