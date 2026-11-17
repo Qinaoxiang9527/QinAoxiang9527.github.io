@@ -14,7 +14,7 @@ redirect_from:
 
 Hi! I'm **Aoxiang Qin (秦奥翔)**, currently pursuing an MSc in **Artificial Intelligence and Robotics** at **CUHK-Shenzhen**.
 
-My research interests include foundation models, value alignment, mechanistic interpretability, efficient long-sequence modeling, and embodied intelligence. I am particularly interested in building interpretable, efficient, and trustworthy AI systems.
+My research focuses on efficient and trustworthy foundation models, spanning mechanistic interpretability, long-context modeling, verifier-guided reasoning, and neuromorphic computing. I am particularly interested in extending these capabilities to embodied intelligence through world models, spatial perception, memory, and adaptive decision-making.
 
 Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aoxiang-qin-843282362) and [GitHub](https://github.com/QinAoxiang9527).
 
@@ -26,17 +26,17 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 
 # 📝 Publications and Manuscripts
 
-- **Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models**<br>
+- **[Steer on Rubrics: Auditable Steering of Schwartz Values in Language Models](https://aclanthology.org/2026.emnlp-main.2147/)**<br>
   Zichen Xu, Geng Zhao, **Aoxiang Qin**, Li Zhou, and Benyou Wang.<br>
   *Accepted to EMNLP 2026.*
 
 - **[Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling](https://arxiv.org/abs/2608.02347)**<br>
   Qinwen Wang, Jieping Luo, **Aoxiang Qin**, Ruoyu Zhao, Jianxiong Tang, Wei Zhang, Zhichao Lu, and Luziwei Leng.<br>
-  *Under review at TMLR.* arXiv:2608.02347.
+  *Under review at TMLR.* arXiv:2608.02347. Qinwen Wang, Jieping Luo, and Aoxiang Qin contributed equally.
 
 - **Is It a Ranking Failure? A Same-Budget Action-Ordering Audit for Verifier-Guided Logical Reasoning**<br>
   [Qingming Li](https://openreview.net/profile?id=~Qingming_Li2), **[Aoxiang Qin](https://openreview.net/profile?id=~Aoxiang_Qin1)**, and [Benyou Wang](https://openreview.net/profile?id=~Benyou_Wang2).<br>
-  *Submitted to ICLR.* Qingming Li and Aoxiang Qin contributed equally.
+  *Under review at ICLR 2027.* Qingming Li and Aoxiang Qin contributed equally.
 
 # 🔬 Research Experience
 
@@ -73,12 +73,12 @@ Feel free to reach out via [email](mailto:qinaoxiang9527@gmail.com) or connect w
 
 # 🏆 Awards
 - **Second Prize for Postgraduate Entrance Scholarship**, The Chinese University of Hong Kong, Shenzhen, Sep. 2024.
-- **Outstanding Undergraduate Thesis**, Ocean University of China, Jun. 2024.
-- **Outstanding Student**, Ocean University of China, Sep. 2023.
-- **First-Class Scholarship**, Ocean University of China, Sep. 2023.
-- **Lu Xin Social Scholarship**, Ocean University of China, Sep. 2023.
+- **Outstanding Undergraduate Thesis**, Ocean University of China, Jun. 2024. *Top 5% in the major.*
+- **Outstanding Student**, Ocean University of China, Sep. 2023. *Top 10% of students.*
+- **First-Class Scholarship**, Ocean University of China, Sep. 2023. *Top 5% of students.*
+- **Lu Xin Social Scholarship**, Ocean University of China, Sep. 2023. *Awarded to only 20 students annually.*
 - **Second Award (National Level)**, China Undergraduate Mathematics Competition (Math Major), Nov. 2023.
-- **Dean's Award**, Xingyuan College, Ocean University of China, Oct. 2022.
+- **Dean's Award**, Xingyuan College, Ocean University of China, Oct. 2022. *Awarded to only two students per year.*
 - **Third-Class Scholarship**, Ocean University of China, May 2021.
 - **Boya Award**, Xingyuan College, Ocean University of China, Nov. 2021.
 
